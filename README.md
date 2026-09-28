@@ -32,3 +32,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=GabrielGarcia190&color=blueviolet&style=for-the-badge" alt="Visitor Count" />
 </div>
+
+![snake gif](https://github.com/GabrielGarcia190/GabrielGarcia190/blob/output/github-contribution-grid-snake.svg)
