@@ -33,4 +33,8 @@
   <img src="https://komarev.com/ghpvc/?username=GabrielGarcia190&color=blueviolet&style=for-the-badge" alt="Visitor Count" />
 </div>
 
-![snake gif](https://github.com/GabrielGarcia190/GabrielGarcia190/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielGarcia190/GabrielGarcia190/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielGarcia190/GabrielGarcia190/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/GabrielGarcia190/GabrielGarcia190/output/snake.svg">
+</picture>
