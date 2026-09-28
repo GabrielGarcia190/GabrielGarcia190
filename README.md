@@ -1,47 +1,10 @@
 <h1 align="center">Olá! Eu sou o Gabriel Garcia 👍</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Olá!+Eu+sou+Gabriel+Garcia;Desenvolvedor+de+Software;Apaixonado+por+Tecnologia&font=Fira+Code&color=36BCF7&center=true&width=500&height=50&size=24" alt="Typing SVG" />
-  </a>
-</p>
-
-<hr>
-
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielGarcia190&show_icons=true&theme=dark&layout=compact" alt="GitHub Stats" />
-  </a>
-  <br><br>
-  <a href="https://github.com/GabrielGarcia190/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGarcia190&layout=compact&theme=dark" alt="Top Languages" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=GabrielGarcia190&layout=compact&theme=dark" alt="Top Languages" />
   </a>
 </div>
-
 <hr>
-
-<h2 align="center">🐍 Minhas Contribuições</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielGarcia190/GabrielGarcia190/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielGarcia190/GabrielGarcia190/output/github-snake.svg">
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/GabrielGarcia190/GabrielGarcia190/output/github-snake.svg">
-  </picture>
-</div>
-
-<hr>
-
-<h2 align="center">🏆 Troféus do GitHub</h2>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=GabrielGarcia190&theme=dark&row=2&column=4" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<hr>
-
 <h2 align="center">🛠️ Tecnologias</h2>
 
 <div align="center">
